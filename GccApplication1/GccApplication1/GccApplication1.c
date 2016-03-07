@@ -26,6 +26,7 @@ int main(void)
 		read = usart1Read();
 		usart1Send(read);
 		usart2Send(sendB);
+		// GIT TEST
     }
 	
 	return 0;
